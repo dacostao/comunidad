@@ -1,6 +1,5 @@
 import unittest
 import datetime
-import numpy as np
 from faker import Faker
 from Comunidad.persona import Persona
 from Comunidad.base import Session
